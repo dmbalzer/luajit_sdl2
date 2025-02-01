@@ -1,4 +1,4 @@
--- sdl_event.lua
+-- sdl_events.lua
 
 SDL_TEXTEDITINGEVENT_TEXT_SIZE = 32
 
